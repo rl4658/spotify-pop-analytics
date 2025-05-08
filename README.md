@@ -1,6 +1,6 @@
 # 🎵 Spotify Pop Analytics Dashboard
 
-A **data-driven**, **interactive** dashboard for exploring pop genre metrics, built with [Preswald](https://github.com/preswald/preswald). This app showcases how to work with real-world datasets, perform data cleaning and SQL-like queries, and build minimal, end-user-facing data-driven UIs using the Preswald SDK.
+A **data-driven**, **interactive** dashboard for exploring pop genre metrics, built with [Preswald](https://github.com/StructuredLabs/preswald). This app showcases how to work with real-world datasets, perform data cleaning and SQL-like queries, and build minimal, end-user-facing data-driven UIs using the Preswald SDK.
 
 ---
 
@@ -32,22 +32,6 @@ A **data-driven**, **interactive** dashboard for exploring pop genre metrics, bu
 
 ---
 
-## 🖼️ Demo
-
-<p align="center">
-  <img src="screenshots/corr_matrix.png" alt="Correlation Matrix" width="600" />
-</p>
-<p align="center">
-  <img src="screenshots/scatter.png" alt="Danceability Scatter" width="600" />
-</p>
-<p align="center">
-  <img src="screenshots/artists_bar.png" alt="Artists Bar Chart" width="600" />
-</p>
-
-*More screenshots available in the `screenshots/` folder.*
-
----
-
 ## 🛠️ Tech Stack
 
 * **Language**: Python
@@ -62,7 +46,7 @@ A **data-driven**, **interactive** dashboard for exploring pop genre metrics, bu
 1. **Clone the repo**
 
    ```bash
-   git clone https://github.com/<your-username>/spotify-pop-analytics.git
+   git clone https://github.com/rl4658/spotify-pop-analytics.git
    cd spotify-pop-analytics
    ```
 2. **(Optional) Create & activate a virtual environment**
